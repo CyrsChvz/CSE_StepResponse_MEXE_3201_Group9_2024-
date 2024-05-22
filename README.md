@@ -87,3 +87,14 @@ $$G(s) = \frac{10s^4 + 8s^3 + 6s^2 + 4s + 2}{s^5 + 3s^4 + 5s^3 + 7s^2 + 9s + 1}$
 ### SINUSOIDAL:
 ![8 1](https://github.com/CyrsChvz/CSE_StepResponse_MEXE_3201_Group9_2024-/assets/157497997/05ee1593-da17-4947-9719-10663f1779da)
 
+<h3 align="center">G9 ENGINEERS</h3>
+
+<h4 align="center">Ada, Lemuel J. - PQ <i>(Project Quality Engineer)</i></h4>
+<h4 align="center">Chavez, Cyrus P. - PP <i>(Project Programmer)</i></h4>
+<h4 align="center">Eje, Ken Christian D. - PS <i>(Project Supervisor)</i></h4>
+<h4 align="center">Umali, Felicity D. - PL <i>(Project Leader)</i></h4>
+
+<hr>
+<p align="center">
+  <img src=https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/bsu%20footer.png alt=Bsu style="height: 200px;">
+
