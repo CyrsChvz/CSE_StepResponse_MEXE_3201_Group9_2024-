@@ -1,4 +1,12 @@
-# Laboratory 2
+<p align="center">
+  <img src=https://github.com/limwelwel/ROBOTICS-2-PICTURES-AND-GIF/blob/44a768492060b21e114aa6e205f7cb09aa34ecfa/bsu%20header.png alt=Bsu style="height: 200px;">
+  <hr>
+<h3 align="center">COLLEGE OF ENGINEERING</h3>
+<h3 align="center">BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</h3>
+<h3 align="center">Control Systems Engineering: LABORATORY 2</h3>
+<h1 align="center"> Step Response </h1> 
+<br>
+
 
 ## 1. Second Order Underdamped System
 
